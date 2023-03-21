@@ -1,6 +1,6 @@
 WRITTEN REPORT:
 
-1. 
+1. This report analyzes two datasets (one student data and the other school data) to track and compare the perfomance of schools across a city. To summarize in one sentence, this data shows that charter schools vastly outperformed district schools and the the larger a school becomes, the worse it performs. This data, however, does not answer why this is happening, as further research would need to be done to answer this. Below are two valauble conclusions gained from this report.
 
 2. One interesting conclusion gained from this data is that increased school funding does not guaruntee an increase in students' performance. As the School Spending Table suggests, schools that spend $585 per student or less achieved the higest average test scores while schools that spent more per student gradually fell in performance as spending increased. 
 
