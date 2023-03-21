@@ -1,3 +1,17 @@
+WRITTEN REPORT:
+
+1. 
+
+2. One interesting conclusion gained from this data is that increased school funding does not guaruntee an increase in students' performance. As the School Spending Table suggests, schools that spend $585 per student or less achieved the higest average test scores while schools that spent more per student gradually fell in performance as spending increased. 
+
+3. Another valuable conclusion gathered from this report is that charter schools definitevly outperform district schools, with some measures for average test scores being separated by 20 points or more. 
+
+
+
+
+
+BELOW ARE THE INSTRUCTIONS FOR THIS ASSIGNMENT
+
 In this assignment, you’ll create and manipulate Pandas DataFrames to analyze school and standardized test data.
 
 Background:
